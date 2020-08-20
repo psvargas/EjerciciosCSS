@@ -1,0 +1,15 @@
+h2{color:blue;background:pink;}
+p{text-align:center;}
+
+input[name="Name"]{
+    width: 150px;
+height: 10px;
+background:greenyellow 
+
+}
+label[for="visitante"]
+{
+color:orangered;
+font-weight: bolder;
+font-size: large;
+}
